@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "wordpress-dbserver-project",
+    "private_key_id": "477b63c8b4e0f2630037de4ad6615de988c0109f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpenE3sWEYI9Zl\ncGaukmfgeimykYapuZgxg11JzyiUVBGx4Mdw+/NsB5J3EMQkAmes7QlFSQNJYFnU\nX3/FidpxF0foWzybLGmht7Wt27NYHJN5lzsn+5FcG895CooDX5C+E/hXsCDrGLCL\n9P1LXMjLINR0qUgmn3OJSS/g5177HdZBkXv8CkyOuPAvdYX3/D+kLyckLJ7Mv8Vh\nWUFR7yNQvXKkJGsZHXapUV30S+Cb2bz9jcHtvUS3eiR/EAOIkdqb6H9zKW3LT4Gd\nok2ZiF32xJP4FfhnzhOK+wlZlnkIC4uHwM7SuHxQmWLLD8yev6Omhh68wJ6HmEwh\ndVcEQt0VAgMBAAECggEAD4owwu4xcjPgbzv9+ZyRAWXgJJx/BAjwUktWCDWbk9PM\nobQ+UgzS9NvEKdyZ0XO/hsj4Fv53E4kwMWxxyqoUOfa8uIBqFkHsffEGTJ4U38Z3\nIl6od07NK/5F3t6OtQ7FSYF2xA9bAYrRJV+XBE8Wpj53JZSm0rtGK1sNrsB3l+sR\n7H8PTRE5jH43zjL4Bc5JADsTxeuTR2vTylj29uHh2BNuWkKnpXzNQfHtd7Nd5fJ9\n/9xNMxf+BBnC76H4wUroDQz1z6Y8nI1eeT3tsS6Pnyb8gDE1Bol7PP8PgbKfMK/B\nAq6+oZ9M/eOoDMLhbiTga50JEvJhJAIAzuJXpmwCOQKBgQD5hs7kFGSzdz0IUcHy\nZqNg3CQV2EN2qKMRoegbRSWJ7lVGevE6kagsR016l7MVr1za8zmIi40oGkpDuSeX\nwlbL0x+FsLDQMbmBlfv5CpyxHoQzYfnvixVHfIY5t7jCp0iZLps6FQKsIuYuoZMP\nfC9XWNviRMizr4rWxF1q7o1yTwKBgQDviQ1B3BzvQ2WWJZu8Xp8/0nw4FwMG3WLS\nm5j63TMyNlDKDTR8dsOnp27adnz/boTeJWzttezoJBEQdr4GZ0rTKL2KGRfDlXqX\nSx48Mi16CYOnpdrvpB3BOs6xTe8IOwcpI0jzrYQgZRBnqow4rFi+1by90ctPD71b\n9UOsL8lVWwKBgFHYHdRBvCYBXkt0RaE0eTI0AsIHhVlORu5ppLANJhrvyZisiqMj\nU33yhT9IsrzSICrQzHY1D7+vn9xGxu3IGKASR6yaH+Sp6qbOgy9Ug8C0ubgA0vH3\nNKuV9JDJ6hgutmlIGDIc4huD9uwkow/ZM836n2TAGvSVB30aO2nvhQWRAoGBAK2W\nvrrJz1Y9m3MSUihS0kmoOklTs+fXrHRAOr8iaqWq4yVqKG1CjEwFdLpxP+jEqRls\nOeKTAtrAuHUb+F4foQQh9CoOQUCGJU9bKtAo9PgJyRVHhsBASSftfDjV57IpROk1\nHvso9iWb2CWoXPH9RFsX/i35ycLD/1CTD7XK87cdAoGBAMw55PBFu33a4XL5xDte\nF0LXL7jVZ9FkhwP2dIqyK8mcetmamzP4TwlGMra556M+llvjhfa3LZGDNNp9Om5N\nHdNmZgriTuY5Of6gHM8x7UWan3PrbBM4vwPBGy9LfQl0Huj3e9rYt5omb/JSc9II\nYbQsT3a8/PHkikVhOniKMEMy\n-----END PRIVATE KEY-----\n",
+    "client_email": "prod-01@wordpress-dbserver-project.iam.gserviceaccount.com",
+    "client_id": "109288008199990695351",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prod-01%40wordpress-dbserver-project.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
