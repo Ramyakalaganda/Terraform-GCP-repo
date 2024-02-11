@@ -1,5 +1,5 @@
 provider "google" {
  credentials = file("./DB_Server/db_key.json")
- project     = "dev-12-proj-34"
+ project     = "wordpress-dbserver-project"
  region      = "asia-southeast1"
 }
